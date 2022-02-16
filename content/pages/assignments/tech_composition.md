@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bc6441d3-2204-074b-0a5d-afbf0acacd74
 title: 'Assignment 1.2: Technical Composition, Abstracting Scores'
 uid: 29c4a493-3a6e-9fab-a58b-34792d421d56

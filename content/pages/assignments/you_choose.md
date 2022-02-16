@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bc6441d3-2204-074b-0a5d-afbf0acacd74
 title: 'Assignment 5.1: You Choose!'
 uid: 0a598055-581e-bc8a-33ff-7d94d39dc265

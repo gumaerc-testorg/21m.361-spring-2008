@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bc6441d3-2204-074b-0a5d-afbf0acacd74
 title: 'Assignment 3.3: Noise or Drone Composition'
 uid: 23695c65-4ad0-b5d6-bc17-6b3983750202

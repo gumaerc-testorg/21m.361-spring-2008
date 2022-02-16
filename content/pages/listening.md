@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening
 uid: c5b34c3e-e78b-e469-fb5b-5cf6c944d141
 ---
@@ -65,7 +67,7 @@ Ikeda, Ryoji. "Headphonics 0/1." [\+ / -](https://touch33.net/catalogue/to30-ryo
 
 Murs. "Sunsprayed Ft 3MG." [_Comurshul_](http://www.accesshiphop.com/store/?itemid=301). Veritech Records, 1996 (cassette-only release)
 
-Ziporyn, Evan. "Postcard (w/ Ava, Simon, & Skyler)." 1st movement of "No Return: River Impressions 2002." _The Whole Salmon_. Sun Valley Center for the Arts, 2003. ([MP3 - 3.2MB](/ans7870/21m/21m.361/s08/listening/module_0/ziporyn_postcard-x.mp3)) (Courtesy of Evan Ziporyn. Used with permission.)
+Ziporyn, Evan. "Postcard (w/ Ava, Simon, & Skyler)." 1{{< sup "st" >}} movement of "No Return: River Impressions 2002." _The Whole Salmon_. Sun Valley Center for the Arts, 2003. ([MP3 - 3.2MB](/ans7870/21m/21m.361/s08/listening/module_0/ziporyn_postcard-x.mp3)) (Courtesy of Evan Ziporyn. Used with permission.)
 
 ### Excerpts of student work from prior terms
 
@@ -147,7 +149,7 @@ Helmreich, Stefan. "Matrix 12510-2." _Xerophonics_. Seeland Productions, 2003. (
 
 Reich, Steve. "Come Out." (1966) _Early Works_. Nonesuch, 1992.
 
-Ziporyn, Evan. "Postcard (w/ Ava, Simon, & Skyler)." 1st movement of "No Return: River Impressions 2002." From _The Whole Salmon_. Sun Valley Center for the Arts, 2003. ([MP3 - 7.3MB](/ans7870/21m/21m.361/s08/listening/Ziporyn_Postcard.mp3)) (Courtesy of Evan Ziporyn. Used with permission.)
+Ziporyn, Evan. "Postcard (w/ Ava, Simon, & Skyler)." 1{{< sup "st" >}} movement of "No Return: River Impressions 2002." From _The Whole Salmon_. Sun Valley Center for the Arts, 2003. ([MP3 - 7.3MB](/ans7870/21m/21m.361/s08/listening/Ziporyn_Postcard.mp3)) (Courtesy of Evan Ziporyn. Used with permission.)
 
 Whincop, Peter. "0510 My red-haired girl (voice/text Robert Lax)." (2005) ([MP3 - 14.4MB)](/ans7870/21m/21m.361/s08/listening/0510_My_red-haired_girl-voice_text_Robert_Lax.mp3) (Text: “Radio Masque for my Girl Coming Down From Northampton,” written and read by Robert Lax. Used courtesy of his estate.)
 

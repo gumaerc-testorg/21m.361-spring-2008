@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bc6441d3-2204-074b-0a5d-afbf0acacd74
 title: 'Assignment 3.2: Layers, Scenes, Nice Sounds, Linear and Dense Noise'
 uid: 78b0fd95-5836-698e-69fb-abd7236ac11d

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bc6441d3-2204-074b-0a5d-afbf0acacd74
 title: 'Assignment 1.1: Recording Sounds, Basic Studio Technique'
 uid: 60f1e441-7518-73a4-3880-04650b5620d6
