@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,10 +13,10 @@ uid: 1a035223-3b29-d2a5-0882-091156ddcfae
 
   
 
-Assignments: [1.1]({{< baseurl >}}/pages/assignments/recording_technique) | [1.2]({{< baseurl >}}/pages/assignments/tech_composition) | [1.3]({{< baseurl >}}/pages/assignments/real_composition) | [2.1]({{< baseurl >}}/pages/assignments/feed_improvisation) | [2.2]({{< baseurl >}}/pages/assignments/feedback_composition) | [3.1]({{< baseurl >}}/pages/assignments/collecting_sounds) | [3.2]({{< baseurl >}}/pages/assignments/layers_linear_noise) | [3.3]({{< baseurl >}}/pages/assignments/noise_composition) | [4.1]({{< baseurl >}}/pages/assignments/basic_max_msp) | [4.2]({{< baseurl >}}/pages/assignments/more_max_msp) | 4.3 | [4.4]({{< baseurl >}}/pages/assignments/complete_project) | [5.1]({{< baseurl >}}/pages/assignments/you_choose)
+Assignments: {{% resource_link 60f1e441-7518-73a4-3880-04650b5620d6 "1.1" %}} | {{% resource_link 29c4a493-3a6e-9fab-a58b-34792d421d56 "1.2" %}} | {{% resource_link db10e2bf-856f-f056-9fac-a2f295af7e7b "1.3" %}} | {{% resource_link 24d27c59-ba82-5507-8503-6edaa731d441 "2.1" %}} | {{% resource_link e3675cc6-bac7-0d6f-1c86-039a00a220d5 "2.2" %}} | {{% resource_link db405d50-d334-7764-3bf3-99bad1388e1f "3.1" %}} | {{% resource_link 78b0fd95-5836-698e-69fb-abd7236ac11d "3.2" %}} | {{% resource_link 23695c65-4ad0-b5d6-bc17-6b3983750202 "3.3" %}} | {{% resource_link 2b5f0b35-7602-644d-ebb9-74a4fd30655f "4.1" %}} | {{% resource_link f7e5a45b-edc0-379b-25ac-7c35e059301e "4.2" %}} | 4.3 | {{% resource_link f5bb4815-f927-14c8-6171-aaf1051c7ae9 "4.4" %}} | {{% resource_link 0a598055-581e-bc8a-33ff-7d94d39dc265 "5.1" %}}
 
   
 
-1\. **Write a definite proposal, and show initial work, for your final Max project**. See [Assignment 4.4]({{< baseurl >}}/pages/assignments/complete_project) for details. I'll look at them in class and suggest revisions. Your initial work should be some serious Max programming, and your proposal should be specific, and feasible.
+1\. **Write a definite proposal, and show initial work, for your final Max project**. See {{% resource_link f5bb4815-f927-14c8-6171-aaf1051c7ae9 "Assignment 4.4" %}} for details. I'll look at them in class and suggest revisions. Your initial work should be some serious Max programming, and your proposal should be specific, and feasible.
 
-2\. **Look at Assignment 5.1, and write a clear proposal** of what you intend to do. I will approve it, or make suggestions of how to improve it; once the proposal has been approved/revised, it can't be veered from. Here is [Assignment 5.1]({{< baseurl >}}/pages/assignments/you_choose).
+2\. **Look at Assignment 5.1, and write a clear proposal** of what you intend to do. I will approve it, or make suggestions of how to improve it; once the proposal has been approved/revised, it can't be veered from. Here is {{% resource_link 0a598055-581e-bc8a-33ff-7d94d39dc265 "Assignment 5.1" %}}.
