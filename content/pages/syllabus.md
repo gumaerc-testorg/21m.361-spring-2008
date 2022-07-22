@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus section provides an overview of the course and information
+  on class structure, the five modules, final performances, lab sessions, listening
+  journals, studio access, readings, grading, and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: dc9f8cfa-1b86-f31c-d746-bbac23a6ecec
 ---
@@ -52,7 +57,7 @@ MODULE SYLLABI
 **Musique concrète, form and content** (3 weeks). Studio basics, recording, musique concrète, representation, basics of Pro Tools software, detailed structure.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mod1))
+({{% resource_link 2e5efc1d-6d6a-52d4-bc1e-e901f1ce462b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +69,7 @@ MODULE SYLLABI
 **Feedback and continuity** (2 weeks). Studio feedback, Pro Tools bussing, hardware and software delays, hardware filtering, software reverb, continuous/improvised structure.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mod2))
+({{% resource_link b5d510fa-5678-2b17-a18a-3dcd55579d3a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ MODULE SYLLABI
 **Noise and layers** (3 weeks). Convolution, Peak software, making noise, dense layering, software filters, noise reduction, other Pro Tools plug-ins, sculpting sound, beautiful sounds.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mod3))
+({{% resource_link b198ed82-8928-8e0f-00fe-181d85bf5d5c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ MODULE SYLLABI
 **Synthesis, algorithm, interaction (Max/MSP)** (4 weeks). Introduction to Max/MSP software—a graphic programming environment—algorithmic composing, sound synthesis, interfaces for (performance) interaction.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mod4))
+({{% resource_link 18a22b70-31e1-6b14-44f1-c8f0ed8d626c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +105,7 @@ MODULE SYLLABI
 **Sampling, remixing, polishing** (1 week). Borrowing sounds from other sources (either a single source, a large number of sources, or one's own compositions), using single sounds to make new music, or polishing a previous composition.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mod5))
+({{% resource_link 2cb8cb17-6a93-e906-3f96-8af654988f26 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +145,7 @@ Studio Access, etc.
 
 The studio is available 24/7, and you will have 4 hours allotted to you on a regular basis; this should be enough for your composition assignments. Your hours will be chosen/allocated in the first lab. Students living off-campus, especially females (for safety reasons), have priority in choosing times. Your hours can be divided in any way, though past experience tells me that one or two blocks of time will serve you better than four one-hour sessions. There are studio rules to be followed—we will cover these in the first lab. Some assignments can be completed on your own equipment, in which case you will need a way of transferring large files from your computer to the studio, always as aifs, never mp3s or wavs or anything else. A flash drive, something like an iPod®, or CDs might be useful; but i find proficiency with scp or sftp or other networking tools/commands are way more helpful. It's up to you to learn how to navigate the MIT network, especially when a Mac is at the receiving end.
 
-Studio Rules ([PDF]({{< baseurl >}}/resources/studio_rules))
+Studio Rules ({{% resource_link 400ce8d8-b379-92a8-608a-551032bdf9bb "PDF" %}})
 
 Readings
 --------
@@ -240,7 +245,7 @@ None
 None
 {{< tdclose >}}
 {{< tdopen >}}
-First class: listening survey ([PDF]({{< baseurl >}}/resources/class0))
+First class: listening survey ({{% resource_link e43a3641-9e81-4dd2-3637-eb969b83bc2b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

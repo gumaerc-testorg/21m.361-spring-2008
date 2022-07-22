@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the weekly listening sessions of
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening
 uid: c5b34c3e-e78b-e469-fb5b-5cf6c944d141
 ---
@@ -65,7 +69,7 @@ Ikeda, Ryoji. "Headphonics 0/1." [\+ / -](https://touch33.net/catalogue/to30-ryo
 
 Murs. "Sunsprayed Ft 3MG." [_Comurshul_](http://www.accesshiphop.com/store/?itemid=301). Veritech Records, 1996 (cassette-only release)
 
-Ziporyn, Evan. "Postcard (w/ Ava, Simon, & Skyler)." 1st movement of "No Return: River Impressions 2002." _The Whole Salmon_. Sun Valley Center for the Arts, 2003. ([MP3 - 3.2MB](/ans7870/21m/21m.361/s08/listening/module_0/ziporyn_postcard-x.mp3)) (Courtesy of Evan Ziporyn. Used with permission.)
+Ziporyn, Evan. "Postcard (w/ Ava, Simon, & Skyler)." 1{{< sup "st" >}} movement of "No Return: River Impressions 2002." _The Whole Salmon_. Sun Valley Center for the Arts, 2003. ([MP3 - 3.2MB](/ans7870/21m/21m.361/s08/listening/module_0/ziporyn_postcard-x.mp3)) (Courtesy of Evan Ziporyn. Used with permission.)
 
 ### Excerpts of student work from prior terms
 
@@ -125,7 +129,7 @@ Cage, John. "Williams Mix." (1952) _OHM: The Early Gurus of Electronic Music_, 1
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/listen1_1))
+({{% resource_link 926cd939-829d-21a7-2b26-386c7c400cd3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +151,7 @@ Helmreich, Stefan. "Matrix 12510-2." _Xerophonics_. Seeland Productions, 2003. (
 
 Reich, Steve. "Come Out." (1966) _Early Works_. Nonesuch, 1992.
 
-Ziporyn, Evan. "Postcard (w/ Ava, Simon, & Skyler)." 1st movement of "No Return: River Impressions 2002." From _The Whole Salmon_. Sun Valley Center for the Arts, 2003. ([MP3 - 7.3MB](/ans7870/21m/21m.361/s08/listening/Ziporyn_Postcard.mp3)) (Courtesy of Evan Ziporyn. Used with permission.)
+Ziporyn, Evan. "Postcard (w/ Ava, Simon, & Skyler)." 1{{< sup "st" >}} movement of "No Return: River Impressions 2002." From _The Whole Salmon_. Sun Valley Center for the Arts, 2003. ([MP3 - 7.3MB](/ans7870/21m/21m.361/s08/listening/Ziporyn_Postcard.mp3)) (Courtesy of Evan Ziporyn. Used with permission.)
 
 Whincop, Peter. "0510 My red-haired girl (voice/text Robert Lax)." (2005) ([MP3 - 14.4MB)](/ans7870/21m/21m.361/s08/listening/0510_My_red-haired_girl-voice_text_Robert_Lax.mp3) (Text: “Radio Masque for my Girl Coming Down From Northampton,” written and read by Robert Lax. Used courtesy of his estate.)
 
@@ -160,7 +164,7 @@ Larson, Forrest. "Urban Sanctuary," ([MP3 - 12MB](/ans7870/21m/21m.361/s08/liste
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/listen1_2))
+({{% resource_link 3825babe-b81e-1f8c-96a4-1f25b59129d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +205,7 @@ Matthews, Kaffe. "The Last of the Violins, 14." [_cd dd_](http://kaffematthews.b
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/listen1_3))
+({{% resource_link b09ff676-a151-358d-8fb8-a0ced5557b43 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -242,7 +246,7 @@ Neuhaus, Max, and John Cage. "Fontana Mix - Feed 4-6." (1965/68) _Fontana Mix �
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/listen2_1))
+({{% resource_link 6e99d71d-453a-4e31-b76f-1057025aae95 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +281,7 @@ David Cossin. "A. C. T. (Amplified Cardboard Tube)." (2002)
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/listen2_2))
+({{% resource_link 753a8515-2334-ab04-68ee-8015c890e20b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +371,7 @@ Amacher, Maryanne. "Head Rhythm 1." _Sound Characters_. Tzadik, 1999. \[Played v
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/listen3_2))
+({{% resource_link c5b91729-9de7-b2d4-b983-6922691eeaf6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -408,7 +412,7 @@ Tenney, James. "Analog #1 (Noise Study)." (1961) _Selected Works: 1961-1969_. Ne
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/listen3_3))
+({{% resource_link d7f59ab6-69f1-e161-3ff0-0038f5e08844 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -455,7 +459,7 @@ Radiohead. "Idioteque." _Kid A_. Capitol, 2000.
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/listen4_1))
+({{% resource_link 6cf29017-d0cc-37da-c1ce-855fc1944da0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -492,7 +496,7 @@ Babbitt, Milton. "Phonemena." (1975). Joan Heller, soprano; Thomas Stumpf, piano
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/listen4_2))
+({{% resource_link fc141211-83fc-9f28-51da-b8f8be0ef805 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -544,7 +548,7 @@ Stockhausen, Karlheinz. "Studie II." (1954) [Stockhausen Edition](http://www.sto
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/listen4_4))
+({{% resource_link cf571ac4-08e8-7c97-84bf-1376a7bfc9e8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
