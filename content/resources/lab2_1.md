@@ -6,6 +6,7 @@ file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab2_1.pdf
 uid: b30fbe95-e004-2315-033b-5d94c9d39fc6
 ---
 Lab notes on speaker-mic feedback and outboard processing such as filters, delay, EQ, and Aural Exciter.
-

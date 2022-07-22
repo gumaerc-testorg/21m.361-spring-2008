@@ -5,6 +5,7 @@ file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab1_3.pdf
 uid: 52ead252-d155-5f87-a7ae-51ea7c2575fc
 ---
 Lab notes on Pro Tools editing.
-

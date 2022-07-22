@@ -6,6 +6,7 @@ file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab3_3.pdf
 uid: 29d33f2b-61c9-38be-36c7-7f1f791b91c0
 ---
 Lab notes on Pro Tools inserts, automating inserts, dynamics, and Peak to Pro Tools and vice versa.
-

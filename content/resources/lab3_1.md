@@ -6,6 +6,7 @@ file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab3_1.pdf
 uid: 8ee1a807-9cda-2a8f-24d7-9cd429d097db
 ---
 Lab notes on peak opening, saving, importing, basic editing, regions, DSP, and convolution.
-

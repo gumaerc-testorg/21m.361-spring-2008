@@ -5,6 +5,7 @@ file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab4_4.pdf
 uid: f70be77c-23e6-0cbb-b25e-78e5823fd45c
 ---
 Lab notes on Max/MSP.
-

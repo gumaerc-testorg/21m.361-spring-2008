@@ -6,6 +6,7 @@ file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab2_2.pdf
 uid: 7aa42aac-75a7-f8db-12b6-659b5573b7da
 ---
 Lab notes on Pro Tools buses, internal feedback loops, delay and reverb inserts, and Pro Tools tricks.
-
