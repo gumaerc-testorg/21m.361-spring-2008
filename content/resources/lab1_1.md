@@ -28,4 +28,3 @@ video_metadata:
   youtube_id: ''
 ---
 Lab notes on basic studio technique, musique concrète, form and content.
-
