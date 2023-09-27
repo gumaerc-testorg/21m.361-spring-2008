@@ -39,9 +39,10 @@
     "website": "21m-361-composing-with-computers-i-electronic-music-composition-spring-2008"
   },
   "learning_resource_types": [
-    "Music",
-    "Activity Assignments with Examples"
+    "Activity Assignments with Examples",
+    "Music"
   ],
-  "site_uid": "9095b9da-c4d6-411b-aedf-bd439fc8a023",
+  "site_uid": "b00dbc61-0801-47df-affa-b8525859bde4",
+  "site_short_id": "21m.361-spring-2008",
   "title": "Course Metadata"
 }
