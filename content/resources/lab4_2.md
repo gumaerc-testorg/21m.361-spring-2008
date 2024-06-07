@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab notes on Max/MSP.
 file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/3f45cd1f274f03bcaaa1b69210600974_lab4_2.pdf
+file_size: 183203
 file_type: application/pdf
 learning_resource_types:
 - Labs

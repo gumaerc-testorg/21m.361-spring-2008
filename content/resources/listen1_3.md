@@ -2,6 +2,7 @@
 content_type: resource
 description: Listening notes on musique concr?te.
 file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/b09ff676a151358d8fb8a0ced5557b43_listen1_3.pdf
+file_size: 125247
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

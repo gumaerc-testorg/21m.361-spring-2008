@@ -2,6 +2,7 @@
 content_type: resource
 description: Listening notes on whole feedback compositions.
 file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/6e99d71d453a4e31b76f1057025aae95_listen2_1.pdf
+file_size: 121122
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
