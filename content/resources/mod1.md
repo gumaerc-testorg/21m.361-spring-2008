@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on studio basics, recording, Musique Concr?te, representation,
   basics of Pro Tools software, and detailed structure.
 file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/2e5efc1d6d6a52d4bc1ee901f1ce462b_mod1.pdf
+file_size: 87984
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
