@@ -2,6 +2,7 @@
 content_type: resource
 description: Rules for using the studio for class projects.
 file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/400ce8d8b37992a8608a551032bdf9bb_studio_rules.pdf
+file_size: 111679
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

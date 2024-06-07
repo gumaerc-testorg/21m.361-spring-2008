@@ -4,6 +4,7 @@ description: Lecture notes on convolution, Peak software, making noise, dense la
   software filters, noise reduction, other Pro Tools plug-ins, sculpting sound, and
   beautiful sounds.
 file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/b198ed8289288e0f00fe181d85bf5d5c_mod3.pdf
+file_size: 93288
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

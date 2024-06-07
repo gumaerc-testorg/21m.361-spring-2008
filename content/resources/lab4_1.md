@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab notes on basic Max/MSP, synthesis, algorithm, and interaction.
 file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/34a339662817d3df32e2b2827a5e5e31_lab4_1.pdf
+file_size: 161898
 file_type: application/pdf
 learning_resource_types:
 - Labs
