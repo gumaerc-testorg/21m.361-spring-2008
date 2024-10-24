@@ -2,7 +2,7 @@
 content_type: resource
 description: Lab notes on basic studio technique, musique concr?te, form and content.
 draft: false
-file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/fb3737d59f6779ea14af7cfc84973340_lab1_1.pdf
+file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/fb3737d59f6779ea14af7cfc84973340_lab1_1.pdf
 file_size: 164444
 file_type: application/pdf
 image_metadata:

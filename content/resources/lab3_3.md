@@ -2,7 +2,7 @@
 content_type: resource
 description: Lab notes on Pro Tools inserts, automating inserts, dynamics, and Peak
   to Pro Tools and vice versa.
-file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/29d33f2b61c938be36c77f1f791b91c0_lab3_3.pdf
+file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/29d33f2b61c938be36c77f1f791b91c0_lab3_3.pdf
 file_size: 139121
 file_type: application/pdf
 learning_resource_types:
