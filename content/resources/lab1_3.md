@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab notes on Pro Tools editing.
-file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/52ead252d1555f87a7ae51ea7c2575fc_lab1_3.pdf
+file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/52ead252d1555f87a7ae51ea7c2575fc_lab1_3.pdf
 file_size: 138120
 file_type: application/pdf
 learning_resource_types:

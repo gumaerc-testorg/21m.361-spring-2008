@@ -2,7 +2,7 @@
 content_type: resource
 description: Lab notes on speaker-mic feedback and outboard processing such as filters,
   delay, EQ, and Aural Exciter.
-file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/b30fbe95e0042315033b5d94c9d39fc6_lab2_1.pdf
+file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/b30fbe95e0042315033b5d94c9d39fc6_lab2_1.pdf
 file_size: 129063
 file_type: application/pdf
 learning_resource_types:
