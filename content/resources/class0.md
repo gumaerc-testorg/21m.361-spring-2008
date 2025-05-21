@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture notes on from the first class: listening survey.'
-file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/e43a36419e814dd23637eb969b83bc2b_class0.pdf
+file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/e43a36419e814dd23637eb969b83bc2b_class0.pdf
 file_size: 108650
 file_type: application/pdf
 learning_resource_types: []

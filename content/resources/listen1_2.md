@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Listening notes on musique concr?te.
-file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/3825babeb81e1f8c96a41f25b59129d1_listen1_2.pdf
+file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/3825babeb81e1f8c96a41f25b59129d1_listen1_2.pdf
 file_size: 100812
 file_type: application/pdf
 learning_resource_types: []

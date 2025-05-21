@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Listening notes on noise and layers.
-file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/c5b917299de7b2d4b9836922691eeaf6_listen3_2.pdf
+file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/c5b917299de7b2d4b9836922691eeaf6_listen3_2.pdf
 file_size: 244104
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Listening notes on Max/MSP and voice.
-file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/fc14121183fc9f2851dab8f8be0ef805_listen4_2.pdf
+file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/fc14121183fc9f2851dab8f8be0ef805_listen4_2.pdf
 file_size: 331796
 file_type: application/pdf
 learning_resource_types: []
