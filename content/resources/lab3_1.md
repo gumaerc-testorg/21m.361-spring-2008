@@ -2,7 +2,7 @@
 content_type: resource
 description: Lab notes on peak opening, saving, importing, basic editing, regions,
   DSP, and convolution.
-file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/8ee1a8079cda2a8f24d79cd429d097db_lab3_1.pdf
+file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/8ee1a8079cda2a8f24d79cd429d097db_lab3_1.pdf
 file_size: 868189
 file_type: application/pdf
 learning_resource_types:

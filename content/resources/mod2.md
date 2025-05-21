@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on studio feedback, Pro Tools bussing, hardware and software
   delays, hardware filtering, software reverb, and continuous/improvised structure.
-file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/b5d510fa56782b17a18a3dcd55579d3a_mod2.pdf
+file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/b5d510fa56782b17a18a3dcd55579d3a_mod2.pdf
 file_size: 148807
 file_type: application/pdf
 learning_resource_types: []

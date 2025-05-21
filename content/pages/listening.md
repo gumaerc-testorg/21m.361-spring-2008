@@ -28,7 +28,7 @@ NOTES
 
 Radiohead. "Pulk/Pull Revolving Doors." *Amnesiac*. Capitol, 2001.
 
-Fennesz, Christian. "013 +- 6.18." [*Plus Forty Seven Degrees 56' 37" Minus Sixteen Degrees 51' 08"*](http://touchshop.org/product_info.php?cPath=11&products_id=19). Touch TO:40, 1999.
+Fennesz, Christian. "013 +- 6.18." [*Plus Forty Seven Degrees 56' 37" Minus Sixteen Degrees 51' 08"*](https://fenneszreleases.bandcamp.com/album/plus-forty-seven-degrees-56-37-minus-sixteen-degrees-51-08). Touch TO:40, 1999.
 
 Gas. \[Track 1\] from *Zauberberg*, 1997; reissued on 4-CD compilation [Gas](http://www.forcedexposure.com/artists/gas.html), Kompact 2001.
 
@@ -132,7 +132,7 @@ Larson, Forrest. "Urban Sanctuary," ([MP3 - 12MB](https://ocw-studio.odl.mit.edu
 
 Bryars, Gavin. "Jesus' Blood Never Failed Me Yet." *Sinking of the Titanic / Jesus' Blood*. Original version, Obscure 1 1975, reissued Virgin EMI, 2004.
 
-Fennesz, Christian. "013 +- 6.18." [*Plus Forty Seven Degrees 56' 37" Minus Sixteen Degrees 51' 08"*](http://touchshop.org/product_info.php?cPath=11&products_id=19). Touch TO:40, 1999.
+Fennesz, Christian. "013 +- 6.18." [*Plus Forty Seven Degrees 56' 37" Minus Sixteen Degrees 51' 08"*](https://fenneszreleases.bandcamp.com/album/plus-forty-seven-degrees-56-37-minus-sixteen-degrees-51-08). Touch TO:40, 1999.
 
 Helvacioglu, Erdem. "Wandering Around The City." (2003) From *Resonant Cities*. Radio program produced by DRIFT Radio, Scotland, 2004.
 
@@ -258,7 +258,7 @@ Nmperign & Jason Lescalleet. "This is Ruined." *Love Me Two Times*. Intransitive
 
 ### Recommended
 
-Niblock, Phil. "Sweet Potato." [*Touch Food*](http://touchshop.org/product_info.php?products_id=115). TO:59, 2003.
+Niblock, Phil. "Sweet Potato." [*Touch Food*](https://touch33.net/catalogue/to59-phill-niblock-touch-food.html). TO:59, 2003.
 
 Nmperign & Jason Lescalleet. "The Mystery Disease That Haunts My Town." *Love Me Two Times*. Intransitive int026, 2006.
 
@@ -354,7 +354,7 @@ Radiohead. "Everything In Its Right Place." *Kid A*. Capitol, 2000.
 
 Lansky, Paul. "Idle Chatter." (1985) ([MP2 - 1.1 MB](https://www.youtube.com/watch?v=NFrtTTUsIFE))
 
-Stockhausen, Karlheinz. "Gesang der Jünglinge." (1955-1956) [Stockhausen Edition](http://music.columbia.edu/masterpieces/notes/stockhausen/index.html) no. 3.
+Stockhausen, Karlheinz. "Gesang der Jünglinge." (1955-1956) [Stockhausen Edition](https://stockhausenspace.blogspot.com/2015/01/opus-8-gesang-der-junglinge.html) no. 3.
 
 Monk, Meredith. "Hey Rhythm." *Our Lady of Late*. Wergo, 1997.
 
