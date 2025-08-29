@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Lab notes on Max/MSP.
-file: /courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/f70be77c23e60cbbb25e78e5823fd45c_lab4_4.pdf
+file: /ol-ocw-studio-app/courses/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/f70be77c23e60cbbb25e78e5823fd45c_lab4_4.pdf
 file_size: 334680
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
